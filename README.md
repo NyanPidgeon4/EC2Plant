@@ -1,9 +1,8 @@
 # EC2Plant
 
-(Disclaimer : I was making this long before Wood was posted, and it's different enough, imo both should be added)
 Feel free to criticize this, I'll totally change it to an extent if you have a good enough point! 
 
-Description: You could put your seeds in people with this.
+Description: You could put your seeds in people with this. (100% could be changed)
 
 Rarity: Beta/Alpha
 
